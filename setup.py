@@ -17,5 +17,5 @@ import setuptools
 
 setuptools.setup(
     setup_requires=['setuptools_scm'],
-    use_scm_version=True,
+    version='5.1.7'
 )
